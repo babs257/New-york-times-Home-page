@@ -17,6 +17,7 @@ Open your git bash and cd to the location you'd like to put your files the run t
 
  TECHNOLOGY USED
  HTML AND CSS
+ ![Image of Newsyork times Homepage](https://github.com/babs257/New-york-times-Home-page/blob/feature-branch/assets/Newyork%20homepage.jpg)
 
  The link to the live version of the project is shown below:
 	https://babs257.github.io/NewYork-times/.  
